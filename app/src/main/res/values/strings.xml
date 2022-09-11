@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="tv1"><b>Lớp:</b>\n20T1</string>
+    <string name="tv2"><b>Môn học:</b>\nAndroid</string>
+    <string name="tv3"><b>GVHD:</b>\nĐỗ Phú Huy</string>
+    <string name="back">Back</string>
+    <string name="email"><b>Email</b>: ricenguyen2310@gmail.com</string>
+    <string name="phone"><b>Phone</b>: 0906231002</string>
+    <string name="msv"><b>MSV</b>: 2050531200131</string>
+    <string name="fb"><b>Facebook</b>: fb.com/cathoiloine</string>
+</resources>
