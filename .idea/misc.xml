@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.255" />
         <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/border.xml" value="0.328" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/border_info.xml" value="0.1365" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/border_login_edittext.xml" value="0.255" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/borderbottomwhite.xml" value="0.132" />
         <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/gradient_background.xml" value="0.255" />
         <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/gradient_top.xml" value="0.255" />
-        <entry key="..\:/save/andr/Infomation/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/ic_android.xml" value="0.255" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/ic_facebook_svgrepo_com.xml" value="0.2175" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.255" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/save/andr/Infomation/app/src/main/res/layout/activity_register.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

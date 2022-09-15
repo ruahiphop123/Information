@@ -8,4 +8,5 @@
     <string name="phone"><b>Phone</b>: 0906231002</string>
     <string name="msv"><b>MSV</b>: 2050531200131</string>
     <string name="fb"><b>Facebook</b>: fb.com/cathoiloine</string>
+    <string name="login_no">Dont you have an account?<b>Sign up</b></string>
 </resources>
